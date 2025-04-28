@@ -31,7 +31,7 @@ Clone the repository and install dependencies:
 sh
 git clone https://github.com/Project-Kunal/your-repo.git
 
-cd your-repo
+cd your-repo.
 
 npm install  # or yarn install
 
